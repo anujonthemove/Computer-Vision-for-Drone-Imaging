@@ -1,11 +1,25 @@
-# Drone Datasets
+Contents
+--------
+Resources for drone/aerial imaging: 
 
-http://cvgl.stanford.edu/projects/uav_data/
+Datasets
+-----------------
+Drone datasets – mainly for object detection and segmentation.
 
-https://www.tugraz.at/index.php?id=22387
+#### Public/free/direct download 
 
-http://www2.isprs.org/commissions/comm1/icwg15b/benchmark_main.html
-
-https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx
-
-http://crcv.ucf.edu/data/UCF_Aerial_Action.php
+- https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx
+- http://cvgl.stanford.edu/projects/uav_data/ 
+- https://lafi.github.io/LPN/ 
+- https://gdo152.llnl.gov/cowc/ 
+- http://web.inf.ufpr.br/vri/databases/parking-lot-database/ 
+- https://jacky82226.github.io/DVBI/ 
+- https://www.iis.sinica.edu.tw/~swc/pub/drone_face_open_dataset.html 
+- https://mmspg.epfl.ch/downloads/mini-drone/ 
+- https://project.inria.fr/aerialimagelabeling/files/ 
+- https://projects.asl.ethz.ch/datasets/doku.php?id=home 
+- http://www.viratdata.org/ 
+- https://devblogs.nvidia.com/exploring-spacenet-dataset-using-digits/ 
+- https://devtalk.nvidia.com/default/topic/1002692/aerial-imagery-dataset/ 
+- https://multidrone.eu/multidrone-public-dataset/ 
+- https://www.dcu.ie/ocoo/Drone-Survey-Dataset.shtml  
