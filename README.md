@@ -22,7 +22,6 @@ Drone datasets – mainly for object detection and segmentation.
 - https://devblogs.nvidia.com/exploring-spacenet-dataset-using-digits/ 
 - https://devtalk.nvidia.com/default/topic/1002692/aerial-imagery-dataset/ 
 - https://multidrone.eu/multidrone-public-dataset/ 
-- https://www.dcu.ie/ocoo/Drone-Survey-Dataset.shtml  
+- https://www.dcu.ie/ocoo/Drone-Survey-Dataset.shtml
 
-
-** Please send a PR if you want to add anything to this. 
+***Please add here if you find something interesting!***
