@@ -24,4 +24,10 @@ Drone datasets – mainly for object detection and segmentation.
 - https://multidrone.eu/multidrone-public-dataset/ 
 - https://www.dcu.ie/ocoo/Drone-Survey-Dataset.shtml
 
+
+
+Utilities
+---------
+[Stanford drone dataset to keras retinanet format](https://github.com/anujonthemove/keras-retinanet-utilities)
+
 ***Please add here if you find something interesting!***
