@@ -28,6 +28,6 @@ Drone datasets – mainly for object detection and segmentation.
 
 Utilities
 ---------
-[Stanford drone dataset to keras retinanet format](https://github.com/anujonthemove/keras-retinanet-utilities)
+[Dataset conversion utils](https://github.com/anujonthemove/keras-retinanet-utilities)
 
 ***Please add here if you find something interesting!***
