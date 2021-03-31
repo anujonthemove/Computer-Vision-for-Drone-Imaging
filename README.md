@@ -23,6 +23,7 @@ Drone datasets – mainly for object detection and segmentation.
 - https://devtalk.nvidia.com/default/topic/1002692/aerial-imagery-dataset/ 
 - https://multidrone.eu/multidrone-public-dataset/ 
 - https://www.dcu.ie/ocoo/Drone-Survey-Dataset.shtml
+- https://github.com/mribrahim/PESMOD \[ updated on: 31-03-2021\]
 
 
 
